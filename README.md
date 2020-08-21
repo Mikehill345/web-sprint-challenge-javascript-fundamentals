@@ -32,8 +32,13 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 3. What is closure?
 
 4. Describe the four rules of the 'this' keyword.
+implicit binding is 
+explicit 
+global 
+
 
 5. Why do we need super() in an extended class?
+super is our super power it allows the extends keyword to work and inherit properties from the parent constructor
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
