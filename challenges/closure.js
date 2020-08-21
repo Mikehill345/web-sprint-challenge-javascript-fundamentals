@@ -17,7 +17,7 @@ function myFunction() {
 myFunction();
 
 // Explanation: 
-
+//because of inheritance the nested function is the child and can inhert things from the parent function where as it can't go back the other way.
 
 /* Task 2: Counter */
 
